@@ -1,20 +1,31 @@
 ## 👋 Welcome to my profile! 
-Hey. My name is tiimo and I wanna be a Game Developer! Here are some quick facts about me:
+Hey. My name is tiimo. Here are some quick facts about me:
 
 Name: Timo / tiimo  
 Age: Born in 2004  
-Pronouns: He/Him  
+Pronouns: He/Him 
+
+Languages:
+- English
+- German
+ 
+Programming languages:
+- Rust (learning and loving)
+- TypeScript / JavaScript
+- Python
+- PHP
+- C#
 
 <hr>
 
-### 📰 Website
-Check out my website, [tiimo.site](https://www.tiimo.site). It's currently pretty empty, but I will add stuff in the future!
+### Interested in Game Development?
+Join the [Jame Gam](https://jamegam.com), a beginner friendly chill game jam (created by me)
 
 <hr>
 
 ## 🚀 How to reach me
 
-The best way to reach me is by adding me on Discord! My tag is: tiimo#0002
+The best way to reach me is by adding me on Discord! My tag is: tiimo
 
 <!--
 Here are some ideas to get you started:
