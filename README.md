@@ -1,4 +1,5 @@
 ## 👋 Welcome to my profile! 
+
 Hey. My name is tiimo. Here are some quick facts about me:
 
 Name: Timo / tiimo  
@@ -10,7 +11,7 @@ Languages:
 - German
  
 Programming languages:
-- Rust (learning and loving)
+- Rust
 - TypeScript / JavaScript
 - Python
 - PHP
@@ -19,6 +20,7 @@ Programming languages:
 <hr>
 
 ### Interested in Game Development?
+
 Join the [Jame Gam](https://jamegam.com), a beginner friendly chill game jam (created by me)
 
 <hr>
