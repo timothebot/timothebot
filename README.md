@@ -1,4 +1,5 @@
-![timothebot banner](timothebot.png)
+
+<img src="timothebot.png" width="900" alt="timothebot banner">
 
 Hi. My name is tiimo (he/him) and I'm Software Developer and Security Analyst
 
