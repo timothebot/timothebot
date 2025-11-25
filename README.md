@@ -9,16 +9,9 @@ Hi. My name is tiimo (he/him) and I'm Software Developer and Security Analyst <i
 
 <img align="right" width="350" src="https://github.com/user-attachments/assets/2595c5e3-3bed-4aa8-93b2-3a4380634d9c">
 <br><br>
+<br><br>
 <div width="400" align="center">
-
-
-<div>
- me irl
-<img width="100" src="https://github.com/user-attachments/assets/07fbf6aa-278d-49b0-82c6-0871f84396c8">
-
-
 <img width="300" src="https://github.com/user-attachments/assets/9bf097f3-7ea3-4147-9f9b-562f1d2358d1">
-</div>
 </div>
 <br><br>
 <br><br>
